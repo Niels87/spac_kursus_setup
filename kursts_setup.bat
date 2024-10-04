@@ -6,4 +6,3 @@ winget install -e --id
     Microsoft.Office 
     Microsoft.Teams 
     Microsoft.PowerBI
-    Oracle.MySQL
