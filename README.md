@@ -1,0 +1,1 @@
+# spac_kursus_setup
