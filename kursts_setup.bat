@@ -1,5 +1,3 @@
-
-
 winget install -e --id 
     Microsoft.WindowsTerminal 
     Microsoft.VisualStudioCode 
